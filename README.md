@@ -1,4 +1,4 @@
 # README
 Autor:  Cristobal Barria
-Class: Doistanmt reading
+Class: Distant reading
 Date: 27/10/2020
